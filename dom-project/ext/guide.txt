@@ -1,0 +1,1 @@
+npm i -D webpack webpack-cli webpack-dev-server babel-core babel-preset-env babel-loader css-loader mini-css-extract-plugin
